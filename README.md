@@ -49,4 +49,6 @@
 
 [![Les Stats GitHub de David Besse](https://github-readme-stats.vercel.app/api?username=David-Besse&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=David-Besse.David-Besse&style=flat-square&color=0088cc" alt="visitors" align="right"></h1>
+----------
+
+![](https://komarev.com/ghpvc/?username=David-Besse)

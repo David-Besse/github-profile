@@ -1,3 +1,5 @@
+![Cover](https://github.com/David-Besse/David-Besse/blob/master/img/beach.jpg)
+
 ### Hi there 👋
 
 <!--

@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shantell+Sans&size=25&duration=4000&pause=500&color=1DA1F2&background=FF000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=150&lines=Hey%2C+i'm+David+Besse+!;I'm+a+full-stack+Web+Developper.;If+a+motto+can+define+me%2C+I+would+probably+choose+this+one+%3A;%22what+we+must+learn+to+do%2C+we+learn+it+by+doing+it...%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shantell+Sans&size=25&duration=3500&pause=500&color=1DA1F2&background=FF000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=150&lines=Hey%2C+i'm+David+Besse+!;I'm+a+full-stack+Web+Developper.;If+a+motto+can+define+me%2C+I+would+probably+choose+this+one+%3A;%22what+we+must+learn+to+do%2C+we+learn+it+by+doing+it...%22" alt="Typing SVG" /></a>
 </p>
 
 
@@ -23,6 +23,8 @@
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=plastic)
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=plastic)
 
+</br>
+
 <h3>🧰 Frameworks and Libraries</h3>
 
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic)
@@ -31,6 +33,8 @@
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=plastic)
 
+</br>
+
 <h3>💻 Software and Tools</h3>
 
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=plastic)
@@ -38,6 +42,8 @@
 ![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=plastic)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic)
 ![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=plastic)
+
+</br>
 
 <h3> 📊 Github Stats </h3>
 

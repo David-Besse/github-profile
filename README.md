@@ -1,4 +1,4 @@
-![Cover](https://github.com/David-Besse/David-Besse/blob/master/img/beach.jpg)
+<img src="https://github.com/David-Besse/David-Besse/blob/main/img/beach.jpg" width="100%">
 
 ### Hi there 👋
 

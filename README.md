@@ -56,7 +56,7 @@
 
 <h3> 📊 Github Stats </h3>
 
-![](https://raw.github.com/David-Besse/github-stats/tree/master/generated/overview.svg?sanitize=true)
+![github_stats](https://raw.github.com/David-Besse/github_stats/tree/master/generated/overview.svg?sanitize=true)
 
 ----------
 <p align="center"><img src="https://komarev.com/ghpvc/?username=David-Besse" alt="visitors"></p>

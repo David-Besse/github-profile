@@ -56,7 +56,7 @@
 
 <h3> 📊 Github Stats </h3>
 
-<img src="https://raw.githubusercontent.com/David-Besse/github_stats/master/generated/overview.svg#gh-dark-mode-only?sanitize=true" alt="github-stats">
+<img src="https://raw.githubusercontent.com/David-Besse/github_stats/master/generated/overview.svg?sanitize=true#gh-dark-mode-only" alt="github-stats">
 
 ----------
 <p align="center"><img src="https://komarev.com/ghpvc/?username=David-Besse" alt="visitors"></p>

@@ -25,7 +25,7 @@
 
 </br>
 
-<h3>🧰 Frameworks and Libraries</h3>
+<h3>🧰 Frameworks / Libraries / Bundles</h3>
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=plastic)

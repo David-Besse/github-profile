@@ -57,6 +57,7 @@
 <h3> 📊 Github Stats </h3>
 
 [![Les Stats GitHub de David Besse](https://github-readme-stats.vercel.app/api?username=David-Besse&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/David-Besse/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ----------
 <p align="center"><img src="https://komarev.com/ghpvc/?username=David-Besse" alt="visitors"></p>

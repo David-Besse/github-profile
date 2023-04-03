@@ -56,7 +56,7 @@
 
 <h3> 📊 Github Stats </h3>
 
-![](https://raw.github.com/David-Besse/github_stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.github.com/David-Besse/github_stats/tree/master/generated/overview.svg#gh-dark-mode-only)
 
 ----------
 <p align="center"><img src="https://komarev.com/ghpvc/?username=David-Besse" alt="visitors"></p>

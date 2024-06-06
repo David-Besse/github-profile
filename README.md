@@ -44,16 +44,6 @@
 
 </br>
 
-<h3>💻 Software and Tools</h3>
-
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=plastic)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
-![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=plastic)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic)
-![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=plastic)
-
-</br>
-
 <h3> 📊 Github Stats </h3>
 
 <img src="https://raw.githubusercontent.com/David-Besse/github_stats/master/generated/overview.svg?sanitize=true" alt="github-stats overview"><img src="https://raw.githubusercontent.com/David-Besse/github_stats/master/generated/languages.svg?sanitize=true" alt="github-stats languages">
